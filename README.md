@@ -8,4 +8,4 @@ By analyzing gene expression at the single-cell level, scRNA-seq enables researc
 
 It's important to note that scRNA-seq is a rapidly evolving field, and new methods and technologies are continuously being developed to improve sensitivity, throughput, and the ability to capture additional molecular features beyond gene expression, such as chromatin accessibility or protein levels.
 
-In this project, first you are going to get familiar with the general steps of analyzing scRNA-seq data, through different steps of preprocessing and clustering. After that, you should propose a topic to work on individually as the main part of your project. Some options are provided and discussed in the end of this notebook.
+In this project, you are going to get familiar with the general steps of analyzing scRNA-seq data, through different steps of preprocessing and clustering.
