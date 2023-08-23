@@ -1,5 +1,5 @@
 # Single-Cell-RNA-Sequencing-Analysis
-Single-Cell RNA Sequencing Analysis
+Single-Cell RNA Sequencing Analysis - Machine Learning for Bioinformatics Project
 
 
 Single-cell RNA sequencing (scRNA-seq) is a powerful technique used in molecular biology to study gene expression at the single-cell level. It allows researchers to profile the transcriptome of individual cells, providing insights into cellular heterogeneity and identifying distinct cell types within a tissue or sample.
